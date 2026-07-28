@@ -6,6 +6,8 @@ Files:
 
 - `snoop-dogg-dollars.json` — structured game and feature data.
 - `snoop-dogg-dollars.csv` — compact tabular version.
+- `feature-cost-table.csv` — original 20×/100×–800× cost normalization.
+- `feature-cost-methodology.md` — formulas, result and limitations.
 
 The dataset separates provider facts from casino-controlled information. RTP, availability, payments, KYC and promotions should always be checked in the live game or operator cashier.
 
