@@ -1,0 +1,22 @@
+{
+  "game": "Snoop Dogg Dollars",
+  "provider": "BGaming",
+  "release_date": "2024-10-30",
+  "grid": {"reels": 6, "rows": 8},
+  "mechanic": "Cluster Pays",
+  "default_rtp_percent": 97.0,
+  "volatility": "High",
+  "maximum_win_x_bet": 10000,
+  "bet_range": {"minimum": 0.25, "maximum": 25, "currency": "operator-dependent"},
+  "free_spins": {"3_scatters": 10, "4_scatters": 12, "5_scatters": 15, "6_scatters": 20},
+  "bonus_buy_costs_x_bet": [100, 200, 400, 800],
+  "snoop_spin_cost_x_bet": 20,
+  "notes": [
+    "Operator configurations and jurisdictional availability may differ.",
+    "Maximum win is a theoretical cap, not a likely or guaranteed result.",
+    "Payment methods, KYC, bonuses and withdrawals are controlled by the casino."
+  ],
+  "methodology": "https://snoopdoggdollar.org/editorial-policy/",
+  "canonical_guide": "https://snoopdoggdollar.org/review/",
+  "last_reviewed": "2026-07-28"
+}

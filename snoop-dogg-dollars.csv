@@ -1,0 +1,15 @@
+field,value
+game,Snoop Dogg Dollars
+provider,BGaming
+release_date,2024-10-30
+grid,6x8
+mechanic,Cluster Pays
+default_rtp_percent,97.0
+volatility,High
+maximum_win_x_bet,10000
+bet_range,0.25-25
+free_spins_3_4_5_6_scatters,10|12|15|20
+bonus_buy_costs_x_bet,100|200|400|800
+snoop_spin_cost_x_bet,20
+methodology,https://snoopdoggdollar.org/editorial-policy/
+last_reviewed,2026-07-28
