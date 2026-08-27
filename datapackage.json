@@ -1,0 +1,42 @@
+{
+  "profile": "data-package",
+  "name": "snoop-dogg-dollars-data",
+  "title": "Snoop Dogg Dollars Open Game Data",
+  "description": "Source-linked game facts and deterministic feature-cost normalization for BGaming's Snoop Dogg Dollars slot.",
+  "version": "1.0.0",
+  "created": "2026-08-27",
+  "homepage": "https://snoopdoggdollar.org/research/snoop-dogg-dollars-feature-costs/",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "sources": [
+    {
+      "title": "BGaming — Snoop Dogg Dollars",
+      "path": "https://bgaming.com/games/snoop-dogg-dollars"
+    }
+  ],
+  "resources": [
+    {
+      "name": "game-facts",
+      "path": "snoop-dogg-dollars.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "game-facts-json",
+      "path": "snoop-dogg-dollars.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "feature-cost-table",
+      "path": "feature-cost-table.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    }
+  ]
+}
